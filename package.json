@@ -1,0 +1,15 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "this is the test",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "httos:github.com/murtazahaidari/nodejs.git"
+  },
+  "author": "mobin",
+  "license": "ISC"
+}
